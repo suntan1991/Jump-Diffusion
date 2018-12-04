@@ -2,7 +2,7 @@
 A simple example to explain the statistical analysis of Li jumps implemented in [1].
 
 Here the main program for analysis is JumpDiffusion.py, which can run as 
-$python JumpDiffusion.py$
+python JumpDiffusion.py
 
 To index the crystal sites in Na11M2PS12, I also provide one example in cross_0_z_0.tif file, and all the index in this crystal is stored in Na_grid_site file.
 
